@@ -11,6 +11,12 @@ Almost completed, left copywriting part unfinished.
 
 Currently this web is just a single page (which just show entire stuff at once), and based on the FULL project idea, I will make a new projects which included the following:
 
-[　] Main Page
+- [ ] Main Page
 
-[ ]
+- [ ] Story Viewer
+  - [x] Long Text
+  - [x] Title
+  - [x] Quotes
+  - [ ] Timeline
+  - [ ] Photos
+  - [ ] Summary
